@@ -88,24 +88,17 @@ testimonial:
   enable : true
   title : "Awards"
   item:
-    - name : "Convive IX Architecture Contest"
+    - name : "Inter-Dec College"
       image : "images/_index/nico.png"
-      designation : "2014"
-      content : "Designed affordable housing for residents of Circasia, Quindio Colombia."
+      designation : "2018"
+      content : "Worked in a team to design a social club inspired by the Tiffany & Co. brand. Work included both 2D and 3D designs."
 
     - name : "Revel Deco"
       image : "images/_index/nico.png"
       designation : "2017"
       content : "Designed a bathroom display for La Tuilerie, a tile and hardware store in Montreal."
 
-    - name : "Inter-Dec College"
+    - name : "Convive IX Architecture Contest"
       image : "images/_index/nico.png"
-      designation : "2018"
-      content : "Worked in a team to design a social club inspired by the Tiffany & Co. brand. Work included both 2D and 3D designs."
-
-
-# blog
-blog:
-  enable : true
-  title : "Blogs"
-  # blog post comes from "content/blog" folder
+      designation : "2014"
+      content : "Designed affordable housing for residents of Circasia, Quindio Colombia."

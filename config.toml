@@ -33,10 +33,6 @@ URL = "about"
 name = "About"
 weight = 1
 
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 2
 
 [[menu.main]]
 URL = "portfolio"
@@ -54,10 +50,10 @@ weight = 4
 home = "Home"
 logo = ""
 # theme color
-theme_color = "#41228e"
+theme_color = "#000"
 # contact info
-phone = "+880 2544 658 256"
-email = "steve.fruits@email.com"
+phone = " +514 632 9920"
+email = "nicksanota@gmail.com"
 address = "2095 rue papineau, montreal, qc"
 # meta description
 author = "Nicolas Sanabria"
@@ -70,7 +66,7 @@ copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothe
 
 # preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/preloader.gif" # use png, jpg, svg or gif format
 
 # contact
@@ -80,7 +76,7 @@ form_action = "#" # contact form works with : https://formspree.io
 
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
 map_latitude = "45.5265865"
 map_longitude = "-73.5626203"
