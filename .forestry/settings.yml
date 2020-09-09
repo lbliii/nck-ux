@@ -36,14 +36,9 @@ sections:
 - type: heading
   label: Data
 - type: directory
-  path: exampleSite/data
-  label: Homepage
+  path: data
+  label: Home Page
   create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/i18n
-  label: i18n
-  create: documents
   match: "**/*"
 - type: heading
   label: Configuration
