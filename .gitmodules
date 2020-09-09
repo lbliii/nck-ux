@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-learn"]
+	path = themes/kross-hugo
+	url = https://github.com/themefisher/kross-hugo.git
