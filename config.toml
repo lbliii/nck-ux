@@ -1,9 +1,9 @@
 # default configuration
-baseURL = "/"
+baseURL = "http://examplesite.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "NCK"
+title = "Kross"
 
 # css plugins
 [[params.plugins.css]]
