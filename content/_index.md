@@ -5,7 +5,7 @@ draft: false
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolor cumque magnam aliquid, explicabo amet quasi eveniet reprehenderit dolorum exercitationem maiores provident ex error, tenetur.
 
 header:
-  description: Hello, my name is Yates. I live and work in London. I'm keen on <span class="blue-text">design and photography</span>.
+  description: Hello, my name is Nico. I live and work in Montreal. I'm keen on <span class="blue-text">architecture and design</span>.
   image:
     url: home-hero.png
     alt: The top of mountain image
@@ -20,7 +20,7 @@ header:
       cmd: Fit
 text_groups:
   - name: Intro
-    description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia esse aut, blanditiis ullam. Similique quo iusto ipsa, excepturi autem voluptate consectetur sit quae praesentium <span class="default-text bold-text">aliquam molestiae</span> minima ex perferendis aut unde tempora amet esse inventore quaerat molestias eum distinctio eligendi ducimus. Commodi voluptatem ab debitis inventore, laborum at maiores reiciendis dolor deleniti ipsam distinctio voluptas eos autem quidem a quia laboriosam similique soluta rem? Eum.
+    description: I'm a nugget. 
 projects:
   - title: Strato
     type: wed design
