@@ -44,5 +44,5 @@ build:
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
   working_dir: "/srv"
-  instant_preview_command: hugo
+  instant_preview_command: hugo -D
 version: 0.58.2
